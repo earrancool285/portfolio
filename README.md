@@ -33,44 +33,44 @@ I specialize in building scalable web applications, RESTful APIs, and automating
 
 ---
 
-# 📦 Projects
+💼 Projects
+🔹 Web Application with RESTful API and Swagger Integration
+📌 Designed and developed a web application with structured REST APIs 
+for data processing and system operations
 
-## 🔹 Web Application with RESTful API and Swagger Integration
-- 📌 Designed and developed a web application with structured REST APIs for data processing and system operations
-- ⚙️ Built using .NET Core with Swagger integration for API documentation and testing
-- 🎯 Enhanced maintainability and developer experience through clear API structure and documentation
+⚙️ Tech: .NET Core, Swagger (OpenAPI)
 
----
+🎯 Highlights:
+- Implemented REST APIs for data processing
+- Integrated Swagger for API documentation and testing
+- Improved maintainability and developer experience
+🔹 Business Process Automation
+📌 Automated workflows to streamline business operations
 
-## 🔹 Business Process Automation
-- 📌 Description: Automated workflows to streamline business operations
-- ⚙️ Tech: Microsoft Power Automate
-- 🎯 Highlight: Reduced repetitive tasks and increased team efficiency
+⚙️ Tech: Microsoft Power Automate
 
----
+🎯 Highlights:
+- Reduced repetitive tasks
+- Increased team efficiency
+- Improved process consistency
+🔹 Enterprise Web Application (Low-Code)
+📌 Designed and developed an enterprise web application using OutSystems,
+integrated with multiple systems via RESTful APIs
 
-## 🔹 Enterprise Web Application (Low-Code)
+⚙️ Tech: OutSystems, REST API
 
-- 📌 Description: Designed and developed an enterprise web application using OutSystems, with integration to multiple systems through RESTful APIs to support business processes and data management.
-- ⚙️ Tech: OutSystems, RESTful API
-- 🎯 Highlight:
-  Implemented API integration for cross-system communication
-  Improved data flow and consistency between systems
-  Streamlined business workflows and reduced processing delays
+🎯 Highlights:
+- Implemented API integration for cross-system communication
+- Improved data flow and consistency
+- Streamlined business workflows
+🔹 Document Processing Application (Power Platform)
+📌 Developed a business application using Power Apps and Power Automate
+for document processing with AI-based OCR
 
----
+⚙️ Tech: Power Apps, Power Automate (AI Builder)
 
-## 🔹 Document Processing Application (Power Platform)
-- 📌 Description: Developed a business application using Power Apps integrated with Power Automate to process documents, including AI-based OCR for extracting and validating data.
-- ⚙️ Tech: Power Apps, Power Automate (AI Builder)
-- 🎯 Highlight:
-  Built application interface using Power Apps for document submission and management
-  Integrated Power Automate with AI Builder to perform OCR and extract data from documents
-  Improved data accuracy and reduced manual data entry
-  Streamlined document processing workflow
-
----
-
-# 📬 Contact
-- 📧 Email: earrancool@gmail.com
-- 📱 Phone: 090-452-7390
+🎯 Highlights:
+- Built UI for document submission and management
+- Used AI Builder for OCR and data extraction
+- Improved data accuracy and reduced manual entry
+- Streamlined document workflow
