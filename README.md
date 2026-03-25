@@ -14,7 +14,7 @@ I specialize in building scalable web applications, RESTful APIs, and automating
 
 ## ⚙️ Backend
 - .NET Core (C#)
-- 
+
 ## 🗄 Database
 - SQL Server
 - Oracle
