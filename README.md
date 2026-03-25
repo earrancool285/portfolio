@@ -48,12 +48,23 @@ I specialize in building scalable web applications, RESTful APIs, and automating
 
 ## 🔹 Enterprise Web Application (Low-Code)
 
-📌 Description: Designed and developed an enterprise web application using OutSystems, with integration to multiple systems through RESTful APIs to support business processes and data management.
-⚙️ Tech: OutSystems, RESTful API
-🎯 Highlight:
-Implemented API integration for cross-system communication
-Improved data flow and consistency between systems
-Streamlined business workflows and reduced processing delays
+- 📌 Description: Designed and developed an enterprise web application using OutSystems, with integration to multiple systems through RESTful APIs to support business processes and data management.
+- ⚙️ Tech: OutSystems, RESTful API
+- 🎯 Highlight:
+  Implemented API integration for cross-system communication
+  Improved data flow and consistency between systems
+  Streamlined business workflows and reduced processing delays
+
+---
+
+## 🔹 Document Processing Application (Power Platform)
+- 📌 Description: Developed a business application using Power Apps integrated with Power Automate to process documents, including AI-based OCR for extracting and validating data.
+- ⚙️ Tech: Power Apps, Power Automate (AI Builder)
+- 🎯 Highlight:
+  Built application interface using Power Apps for document submission and management
+  Integrated Power Automate with AI Builder to perform OCR and extract data from documents
+  Improved data accuracy and reduced manual data entry
+  Streamlined document processing workflow
 
 ---
 
