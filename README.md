@@ -18,6 +18,7 @@ and automating business processes. I enjoy solving complex technical problems an
 - C++       ███░░░░░░░
 - Assembly  ███░░░░░░░ 
 - PHP       ███░░░░░░░
+- JavaScript ███░░░░░░░
 
 ## 🗄 Database
 - SQL Server  ██████████ 
