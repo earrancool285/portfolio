@@ -12,6 +12,8 @@ I specialize in building scalable web applications, RESTful APIs, and automating
 
 ## ⚙️ Programming Languages
 - .NET Core ███████░░░ (Intermediate)
+- VB        ███████░░░ (Intermediate)
+- VBA       ███░░░░░░░ (Basic)
 - C++       ███░░░░░░░ (Basic)
 - Assembly  ███░░░░░░░ (Basic)
 - PHP       ███░░░░░░░ (Basic)
@@ -20,6 +22,8 @@ I specialize in building scalable web applications, RESTful APIs, and automating
 - SQL Server  ██████████ (Advanced)
 - Oracle      ███████░░░ (Intermediate)
 - MySQL       ███░░░░░░░ (Basic)
+- Dataverse   ███░░░░░░░ (Basic)
+- Sharepoint list ███░░░░░░░ (Basic)
 
 ## 🤖 Integration
 - REST API ███████░░░ (Intermediate)
