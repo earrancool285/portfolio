@@ -32,9 +32,11 @@ I specialize in building scalable web applications, RESTful APIs, and automating
 - Problem-Solving
 
 ---
-'''
-💼 Projects
-🔹 Web Application with RESTful API and Swagger Integration
+
+## 💼 Projects
+
+### 🔹 Web Application with RESTful API and Swagger Integration
+```text
 📌 Designed and developed a web application with structured REST APIs 
 for data processing and system operations
 
@@ -44,7 +46,10 @@ for data processing and system operations
 - Implemented REST APIs for data processing
 - Integrated Swagger for API documentation and testing
 - Improved maintainability and developer experience
-🔹 Business Process Automation
+```
+
+### 🔹 Business Process Automation
+```text
 📌 Automated workflows to streamline business operations
 
 ⚙️ Tech: Microsoft Power Automate
@@ -53,7 +58,10 @@ for data processing and system operations
 - Reduced repetitive tasks
 - Increased team efficiency
 - Improved process consistency
-🔹 Enterprise Web Application (Low-Code)
+```
+
+### 🔹 Enterprise Web Application (Low-Code)
+```text
 📌 Designed and developed an enterprise web application using OutSystems,
 integrated with multiple systems via RESTful APIs
 
@@ -63,7 +71,10 @@ integrated with multiple systems via RESTful APIs
 - Implemented API integration for cross-system communication
 - Improved data flow and consistency
 - Streamlined business workflows
-🔹 Document Processing Application (Power Platform)
+```
+
+### 🔹 Document Processing Application (Power Platform)
+```text
 📌 Developed a business application using Power Apps and Power Automate
 for document processing with AI-based OCR
 
@@ -73,4 +84,5 @@ for document processing with AI-based OCR
 - Built UI for document submission and management
 - Used AI Builder for OCR and data extraction
 - Improved data accuracy and reduced manual entry
-- Streamlined document workflow '''
+- Streamlined document workflow
+```
