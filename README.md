@@ -32,7 +32,7 @@ I specialize in building scalable web applications, RESTful APIs, and automating
 - Problem-Solving
 
 ---
-
+'''
 💼 Projects
 🔹 Web Application with RESTful API and Swagger Integration
 📌 Designed and developed a web application with structured REST APIs 
@@ -73,4 +73,4 @@ for document processing with AI-based OCR
 - Built UI for document submission and management
 - Used AI Builder for OCR and data extraction
 - Improved data accuracy and reduced manual entry
-- Streamlined document workflow
+- Streamlined document workflow '''
