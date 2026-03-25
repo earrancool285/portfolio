@@ -1,7 +1,8 @@
 # 👋 About Me
-Hi, I'm Patipan Nuntaso, an experienced Software Developer with a strong background in Fullstack Development, Low-Code Platforms, and system integration.  
-
-I specialize in building scalable web applications, RESTful APIs, and automating business processes. I enjoy solving complex technical problems and delivering real-world solutions that improve efficiency.
+Hi, I'm Patipan Nuntaso, 
+an experienced Software Developer with a strong background in Fullstack Development, Low-Code Platforms, and system integration.  
+I specialize in building scalable web applications, RESTful APIs, and automating business processes. 
+I enjoy solving complex technical problems and delivering real-world solutions that improve efficiency.
 
 ---
 
