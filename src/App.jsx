@@ -242,6 +242,7 @@ export default function Portfolio() {
                 "OutSystems",
                 "Power Platform",
                 ".NET Core",
+                "JavaScript",
                 "C#",
                 "VB",
                 "C++",
