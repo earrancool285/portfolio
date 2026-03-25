@@ -1,7 +1,6 @@
 # 👋 About Me
-สวัสดีครับ ผมเป็น Developer ที่สนใจด้าน Fullstack และ AI  
-มีประสบการณ์ทำ API, Web Application และเชื่อมต่อระบบต่างๆ  
-ชอบเรียนรู้เทคโนโลยีใหม่ และพัฒนาโปรเจคจริงใช้งานได้
+Software Developer with 5+ years experience building scalable applications, automating workflows and integrating enterprise systems. 
+Passionate about solving complex technical problems and building efficient solutions using modern technologies like OutSystems, .NET, and Power Platform.
 
 ---
 
