@@ -47,7 +47,7 @@ I specialize in building scalable web applications, RESTful APIs, and automating
 
 ## 🔹 Enterprise Web Application (Low-Code)
 - 📌 Description: Internal business application developed using low-code platform
-- ⚙️ Tech: OutSystems + SQL Server
+- ⚙️ Tech: OutSystems
 - 🎯 Highlight: Integrated multiple systems to improve workflow
 
 🔗 GitHub: https://github.com/YOUR_USERNAME/outsystems-app
