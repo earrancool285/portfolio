@@ -54,11 +54,6 @@ I specialize in building scalable web applications, RESTful APIs, and automating
 
 ---
 
-# 🔗 Demo
-- 🌐 Coming soon...
-
----
-
 # 📬 Contact
 - 📧 Email: earrancool@gmail.com
 - 📱 Phone: 090-452-7390
