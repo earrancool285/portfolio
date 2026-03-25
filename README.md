@@ -1,16 +1,56 @@
-# React + Vite
+# 👋 About Me
+สวัสดีครับ ผมเป็น Developer ที่สนใจด้าน Fullstack และ AI  
+มีประสบการณ์ทำ API, Web Application และเชื่อมต่อระบบต่างๆ  
+ชอบเรียนรู้เทคโนโลยีใหม่ และพัฒนาโปรเจคจริงใช้งานได้
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+# 🛠 Skills
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 💻 Frontend
+- React
+- HTML / CSS / JavaScript
 
-## React Compiler
+## ⚙️ Backend
+- .NET Core (C#)
+- Java (Spring Boot)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🗄 Database
+- SQL Server
+- MySQL
 
-## Expanding the ESLint configuration
+## 🤖 Other
+- OpenAI API
+- Git / GitHub
+- OutSystems
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+# 📦 Projects
+
+## 🔹 OCR API + AI Response
+- 📌 Description: API สำหรับอ่านตัวอักษรจากรูป และใช้ AI สรุปผล
+- ⚙️ Tech: .NET Core + OpenAI
+- 🎯 Highlight: ลดเวลาทำงาน manual ได้มาก
+
+🔗 GitHub: https://github.com/USERNAME/ocr-api
+
+---
+
+## 🔹 React + Java Web App
+- 📌 Description: ระบบเว็บ Fullstack
+- ⚙️ Tech: React + Spring Boot
+- 🎯 Highlight: แยก frontend/backend ชัดเจน
+
+🔗 GitHub: https://github.com/USERNAME/react-java-app
+
+---
+
+# 🔗 Demo
+- 🌐 Website: https://your-demo-link.com
+
+---
+
+# 📬 Contact
+- 📧 Email: your@email.com
+- 💬 Line / Facebook: (ใส่ถ้ามี)
