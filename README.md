@@ -6,24 +6,23 @@ I specialize in building scalable web applications, RESTful APIs, and automating
 ---
 
 # 🛠 Skills
-
 ## 💻 Low-Code platform
-- OutSystems (Advanced)
-- Microsoft Power Platform (Intermediate)
+- OutSystems       ██████████ (Advanced)
+- Power Platform   ███████░░░ (Intermediate)
 
 ## ⚙️ Programming Languages
-- .NET Core (C#) (Intermediate)
-- C++ (Basic)
-- Assembly (Basic)
-- PHP (Basic)
+- .NET Core ███████░░░ (Intermediate)
+- C++       ███░░░░░░░ (Basic)
+- Assembly  ███░░░░░░░ (Basic)
+- PHP       ███░░░░░░░ (Basic)
 
 ## 🗄 Database
-- SQL Server (Advanced)
-- Oracle (Intermediate)
-- MySQL (Basic)
+- SQL Server  ██████████ (Advanced)
+- Oracle      ███████░░░ (Intermediate)
+- MySQL       ███░░░░░░░ (Basic)
 
 ## 🤖 Integration
-- REST API (Intermediate)
+- REST API ███████░░░ (Intermediate)
 
 ## 🧠 Other
 - Problem-Solving
