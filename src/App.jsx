@@ -243,11 +243,16 @@ export default function Portfolio() {
                 "Power Platform",
                 ".NET Core",
                 "C#",
+                "VB",
+                "C++",
+                "Assembly",
+                "PHP",
+                "MySQL",
                 "SQL Server",
                 "Oracle",
+                "Dataverse",
+                "Sharepoint list",
                 "REST API",
-                "Power Automate",
-                "Entity Framework",
                 "VBA",
               ].map((s) => (
                 <span key={s} className="px-4 py-2 border border-white/20 rounded-full text-sm hover:border-cyan-400 transition">
