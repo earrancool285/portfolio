@@ -5,22 +5,21 @@ I specialize in building scalable web applications, RESTful APIs, and automating
 
 ---
 
-
 # 🛠 Skills
 
 ## 💻 Low-Code platform
-- OutSystems
-- Microsoft Power Platform
+- OutSystems (Advanced)
+- Microsoft Power Platform (Intermediate)
 
 ## ⚙️ Backend
-- .NET Core (C#)
+- .NET Core (C#) (Intermediate)
 
 ## 🗄 Database
-- SQL Server
-- Oracle
+- SQL Server (Advanced)
+- Oracle (Intermediate)
 
-## 🤖 Other
-- REST API
+## 🤖 Integration
+- REST API (Intermediate)
 
 ---
 
@@ -41,9 +40,13 @@ I specialize in building scalable web applications, RESTful APIs, and automating
 ---
 
 ## 🔹 Enterprise Web Application (Low-Code)
-- 📌 Description: Internal business application developed using low-code platform
-- ⚙️ Tech: OutSystems
-- 🎯 Highlight: Integrated multiple systems to improve workflow
+
+📌 Description: Designed and developed an enterprise web application using OutSystems, with integration to multiple systems through RESTful APIs to support business processes and data management.
+⚙️ Tech: OutSystems, RESTful API
+🎯 Highlight:
+Implemented API integration for cross-system communication
+Improved data flow and consistency between systems
+Streamlined business workflows and reduced processing delays
 
 ---
 
