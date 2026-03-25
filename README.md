@@ -35,6 +35,34 @@ I specialize in building scalable web applications, RESTful APIs, and automating
 
 ## 💼 Projects
 
+### 🔹 Document Processing Application (Power Platform)
+```text
+📌 Developed a business application using Power Apps and Power Automate
+for document processing with AI-based OCR
+
+⚙️ Tech: Power Apps, Power Automate (AI Builder)
+
+🎯 Highlights:
+- Built UI for document submission and management
+- Used AI Builder for OCR and data extraction
+- Improved data accuracy and reduced manual entry
+- Streamlined document workflow
+```
+
+### 🔹 Enterprise Web Application (Low-Code)
+```text
+📌 Designed and developed an enterprise web application using OutSystems,
+integrated with multiple systems via RESTful APIs
+
+⚙️ Tech: OutSystems, REST API
+
+🎯 Highlights:
+- Implemented API integration for cross-system communication
+- Improved data flow and consistency
+- Streamlined business workflows
+```
+
+
 ### 🔹 Web Application with RESTful API and Swagger Integration
 ```text
 📌 Designed and developed a web application with structured REST APIs 
@@ -60,29 +88,5 @@ for data processing and system operations
 - Improved process consistency
 ```
 
-### 🔹 Enterprise Web Application (Low-Code)
-```text
-📌 Designed and developed an enterprise web application using OutSystems,
-integrated with multiple systems via RESTful APIs
 
-⚙️ Tech: OutSystems, REST API
 
-🎯 Highlights:
-- Implemented API integration for cross-system communication
-- Improved data flow and consistency
-- Streamlined business workflows
-```
-
-### 🔹 Document Processing Application (Power Platform)
-```text
-📌 Developed a business application using Power Apps and Power Automate
-for document processing with AI-based OCR
-
-⚙️ Tech: Power Apps, Power Automate (AI Builder)
-
-🎯 Highlights:
-- Built UI for document submission and management
-- Used AI Builder for OCR and data extraction
-- Improved data accuracy and reduced manual entry
-- Streamlined document workflow
-```
