@@ -14,8 +14,7 @@ I specialize in building scalable web applications, RESTful APIs, and automating
 
 ## ⚙️ Backend
 - .NET Core (C#)
-- Java (Spring Boot)
-
+- 
 ## 🗄 Database
 - SQL Server
 - Oracle
@@ -32,8 +31,6 @@ I specialize in building scalable web applications, RESTful APIs, and automating
 - ⚙️ Tech: .NET Core + OpenAI
 - 🎯 Highlight: Reduced manual workload and improved processing speed
 
-🔗 GitHub: https://github.com/YOUR_USERNAME/ocr-api
-
 ---
 
 ## 🔹 Business Process Automation
@@ -41,16 +38,12 @@ I specialize in building scalable web applications, RESTful APIs, and automating
 - ⚙️ Tech: Microsoft Power Automate
 - 🎯 Highlight: Reduced repetitive tasks and increased team efficiency
 
-🔗 GitHub: https://github.com/YOUR_USERNAME/power-automate
-
 ---
 
 ## 🔹 Enterprise Web Application (Low-Code)
 - 📌 Description: Internal business application developed using low-code platform
 - ⚙️ Tech: OutSystems
 - 🎯 Highlight: Integrated multiple systems to improve workflow
-
-🔗 GitHub: https://github.com/YOUR_USERNAME/outsystems-app
 
 ---
 
