@@ -71,6 +71,9 @@ function WorkSection() {
         "Customized solutions",
         "Enhanced applications",
         "Integrated systems",
+        "Key Projects",
+        " - GC / PSSR & KEEP",
+        " - GC / e-MoC",
       ],
     },
     {
@@ -92,6 +95,10 @@ function WorkSection() {
         "Developed Outsystems apps",
         "Built business solutions",
         "Improved systems",
+        "Key Projects",
+        "  - GC / Data Executive",
+        "  - GC / SWR",
+        "  - GC / CTC"
       ],
     },
     {
