@@ -26,10 +26,10 @@ I specialize in building scalable web applications, RESTful APIs, and automating
 
 # 📦 Projects
 
-## 🔹 OCR API + AI Response
-- 📌 Description: An API that extracts text from images and processes it using AI for intelligent responses
-- ⚙️ Tech: .NET Core + OpenAI
-- 🎯 Highlight: Reduced manual workload and improved processing speed
+## 🔹 Web Application with RESTful API and Swagger Integration
+- 📌 Designed and developed a web application with structured REST APIs for data processing and system operations
+- ⚙️ Built using .NET Core with Swagger integration for API documentation and testing
+- 🎯 Enhanced maintainability and developer experience through clear API structure and documentation
 
 ---
 
